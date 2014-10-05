@@ -1,0 +1,3 @@
+name="MedalTrade"
+[build]
+build_class = "builder::MyBuilder"
